@@ -44,7 +44,7 @@ setup(
     python_requires=">=3.8",
     install_requires=[
         #"brain-indexer>=3.0.0",
-        "brain-indexer @ git+https://github.com/james-isbister/brain-indexer.git@main",
+        # "brain-indexer @ git+https://github.com/james-isbister/brain-indexer.git@main",
         "cached_property>=1.0",
         "h5py>=3.0.1,<4.0.0",
         "importlib_resources>=5.0.0",
